@@ -120,5 +120,8 @@
       }
     }
   },
-  "defaultProject": "typingGame"
+  "defaultProject": "typingGame",
+  "cli": {
+    "analytics": false
+  }
 }
